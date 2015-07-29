@@ -10,3 +10,7 @@ No idea what I was doing on this project, was created for CS491 final.
 If you try to do multiple searches without reloading the page, it will crash.
 Library has delete functions, but not sorting. 
 I have a check to see if the movie is already in the database, and to not allow it to be added again, but it doesn't work. 
+
+
+
+Upload is massive because I'm not sure how much of this stuff is actually useful. Was all created with the default "Web App" template in Visual Studio.
